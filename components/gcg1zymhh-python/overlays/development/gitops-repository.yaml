@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gcg1zymhh-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/gcg1zymhh-python-gitops
